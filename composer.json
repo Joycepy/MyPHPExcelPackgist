@@ -2,14 +2,11 @@
     "name": "pcy/my-php-excel-packgist",
     "description": "make a phpexcel packgist",
     "type": "composer-plugin",
-    "require": {
-        "phpoffice/phpexcel": "dev-master"
-    },
     "license": "mit",
 	"autoload": {
        "psr-4": {
            "joycepy\\phpexcel\\": ""
        }
     },
-    "minimum-stability": "dev-master"
+    "minimum-stability": "dev"
 }
