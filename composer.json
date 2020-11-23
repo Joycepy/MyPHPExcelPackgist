@@ -1,0 +1,15 @@
+{
+    "name": "pcy/my-php-excel-packgist",
+    "description": "make a phpexcel packgist",
+    "type": "composer-plugin",
+    "require": {
+        "phpoffice/phpexcel": "dev-master"
+    },
+    "license": "mit",
+    "minimum-stability": "dev",
+	"autoload": {
+       "psr-4": {
+           "clement\\rest\\": ""
+       }
+    }
+}
