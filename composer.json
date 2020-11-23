@@ -8,7 +8,7 @@
     "license": "mit",
 	"autoload": {
        "psr-4": {
-           "clement\\rest\\": ""
+           "joycepy\\phpexcel\\": ""
        }
     },
     "minimum-stability": "dev"
