@@ -1,7 +1,7 @@
 {
     "name": "pcy/my-php-excel-packgist",
     "description": "make a phpexcel packgist",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "mit",
 	"autoload": {
        "psr-4": {
